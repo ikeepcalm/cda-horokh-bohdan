@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="766f8279-a500-4ae8-95a5-e00e691820f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/diagram.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/diagram/page1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/diagram/page2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/img/diagram/page3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2wnstuLjoNTXXEaZKo8VoetEU10" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,7 +36,7 @@
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/bh110/WebstormProjects/cda/pages",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
@@ -80,6 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746688891146</updated>
       <workItem from="1746688892538" duration="2289000" />
+      <workItem from="1746691375613" duration="53000" />
     </task>
     <servers />
   </component>
